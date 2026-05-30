@@ -1,6 +1,6 @@
 #File:initials.py
 # Description:Print my initials in large stylized letters
-# Assignment number: 2
+# Assignment number: 1
 #
 # Name: Napoleon Eshun Tandoh
 # Student ID: 2425402179
